@@ -296,10 +296,6 @@
       "address": "10 Queens street"
     }
   ],
-  "subscribe": [
-
-  ],
-  "logininfo": [
-    
-  ],
+  "subscribe": [],
+  "logininfo": []
 }
