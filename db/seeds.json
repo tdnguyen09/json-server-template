@@ -1,444 +1,305 @@
 {
-  "example": [
+  "toys": [
     {
-      "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "1",
+      "name": "LEGO City Fire Rescue Boat 60373",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h0d/h02/34463990448158.jpg",
+      "price": "22.00",
+      "description": "Exciting firefighting adventures await with this LEGO City Fire Rescue Boat (60373) playset, featuring a cool toy fireboat and speedboat dinghy. Kids can launch LEGO water elements from the boat’s extinguisher and firefighter jetpack to knock out the LEGO flames. Just add the 3 included minifigures and let the fun begin. Digital building fun for kids aged 5+",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "2",
+      "name": "LEGO City Police Car and Muscle Car Chase 60415",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/heb/hed/47325768810526.jpg",
+      "price": "22.00",
+      "description": "Unleash high-speed fun and excitement with this police car toy playset for kids aged 6 and over. The LEGO City Police Car and Muscle Car Chase (60415) set for boys and girls features a cool police interceptor and a getaway vehicle, plus officer and crook minifigures for fun role play and storytelling.",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "3",
+      "name": "LEGO Technic Dump Truck 42147",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/hfd/h1f/34805061386270.jpg",
+      "price": "14.00",
+      "description": "Looking for a treat for building site fans? Kids aged 7 and over will love building and playing with this LEGO Technic Dump Truck (42147) toy set. It’s a great introduction to the world of LEGO Technic and helps young builders learn new engineering skills.",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "4",
+      "name": "LEGO Technic NEOM McLaren Extreme E Race Car 42166",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h29/h8a/47254566600734.jpg",
+      "price": "35.00",
+      "description": "ooking for an exciting gift for kids who love racing car toys? This pull-back car for boys and girls aged 7+ delivers thrills at every turn. First youngsters can enjoy building the LEGO® Technic NEOM McLaren Extreme E Race Car (42166). ",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "5",
+      "name": "Barbie Self-Care Rise & Relax Doll",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h48/h04/32571164033054.jpg",
+      "price": "37.00",
+      "description": "Kids can practice mindfulness and meditate with the Barbie Rise and Relax doll to help feel relaxed during the day and to fall asleep at night! This fully posable doll has 6 different guided meditations with light, sound and soothing music across 2 different modes: Daytime and Night. ",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "6",
+      "name": "Barbie Doll and Pool Playset",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h94/h26/47144430403614.jpg",
+      "price": "19.00",
+      "description": "Slide into summer fun with Barbie doll and her pool! It's easy to fill and empty for an instant pool party. Help Barbie climb the ladder and go down the slide, then relax in the water with a refreshing drink!",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "7",
+      "name": "Barbie & Stacie Sister Doll Set",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h75/hf5/46465030062110.jpg",
+      "price": "30.00",
+      "description": "Barbie and Stacie jump into summer adventures together! Just like in the movie Barbie and Stacie to the Rescue, big sis Barbie wears an off-the-shoulder dress with a ruffle collar.",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "8",
+      "name": "Pop Up Super Mario Game",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h28/h44/44272710615070.jpg",
+      "price": "24.00",
+      "description": "In Classic play, Mario is in his pipe and you have to help him get out. Each player takes turns sliding paddles into the pipe. When the correct slot is picked…POP! Mario will bounce out of the pipe and that player wins the game.",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "9",
+      "name": "Gabby's Dollhouse Press-O-Matic",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h8a/h88/44588060114974.jpg",
+      "price": "10.00",
+      "description": "Gabby's Dollhouse Press-O-Matic game is an exciting family game where players try to reach the finish line before their opponents, land on an opponent's piece to send them back to the starting line!",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "10",
+      "name": "Hedbanz Light Speed",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h82/he5/45275130626078.jpg",
+      "price": "12.00",
+      "description": "From Spin Master Games, Hedbanz is fun for the whole family. Play your favorite quick question game at lightspeed! Rules change in a flash as your electronic headband lights up one of three colors. Guess as many cards as you can before your headband sings, signaling your time has run out! ",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "11",
+      "name": "Bunny Mixer 14 Pieces Set",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h81/hd2/46413258063902.jpg",
+      "price": "18.00",
+      "description": "Get ready for a hopping good time with our Bunny Mixer! This cute bunny holds the mixer in its front paws, making baking a magical adventure. The set includes everything your child needs to whip up imaginary delicious treats, from cookies to cupcakes",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "12",
+      "name": "Qwirkle Board Game",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h0e/hf0/33267331072030.jpg",
+      "price": "29.00",
+      "description": "Players score points by building rows and columns of brightly-coloured tiles that are either all the same colour or all the same shape, without creating duplicates; create a line of all six in a row, and you score a Qwirkle.",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "13",
+      "name": "My Fuzzy Friends Lumies Interactive Virtual Pet - Assorted*",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7b/h03/46150456639518.jpg",
+      "price": "25.00",
+      "description": "Meet the magical Lumies! With a simple tap, Lumies can glow ANY color and even turn colors into musical beats! Match Lumies to your outfit, play 3 interactive games, and discover a rainbow-charged world!",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "14",
+      "name": "Minecraft Make Your Own Alex",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h17/hd9/47968219037726.jpg",
+      "price": "19.00",
+      "description": "Make Your Own Minecraft Alex from sustainable materials! Once the easy to assemble cardboard kits are complete, you can pose Alex and add accessories like pickaxes and helmets!",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "15",
+      "name": "Monster Jam 1:64 Die Cast Truck - Assorted*",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h04/h62/44427782160414.jpg",
+      "price": "5.50",
+      "description": "Introducing the all-new, official 1:64 scale die-cast Monster Jam monster truck! This lean, mean, Monster Jam machine features awesome graphics and details. With official BKT Tires, stylized rims, and an authentic chassis, this monster truck embodies the style and swagger of its real-life counterpart!",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "16",
+      "name": "Hot Wheels Multi-Loop Raceoff",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h36/h39/31673417859102.jpg",
+      "price": "39.00",
+      "description": "For exciting racing that's downright loopy, the Hot Wheels Multi-Loop Race Off Playset delivers! Race down the track through a series of loops to score points and be the first through the massive loop, busting it open and leaving the competition in the dust.",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "17",
+      "name": "Squishmallows Disney 17cm Mickey Mouse Plush",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h9c/hd5/45292432621598.jpg",
+      "price": "10.00",
+      "description": "",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "18",
+      "name": "Battleship Splash Game",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h30/h49/45329651793950.jpg",
+      "price": "10.00",
+      "description": "This ultra-collectible, ultra-squeezable Disney plush is made with soft, high-quality materials. Add this detailed and classic Mickey Mouse plush with his adorable ears to your Squishmallow Squad.",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "19",
+      "name": "Happy Kid Space Blaster",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h27/h46/10824491958302.jpg",
+      "price": "8.00",
+      "description": "Be battle-prepared with the Space Blaster from Happy Kid. Featuring a light up blade, laser booster, ergonomic handle and the option to convert between pistol and sword mode, this Space Blaster is a must-have in your arsenal!",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "20",
+      "name": "Rusco Racing 1:10 Dirt Maxx Motorbike",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h17/hf2/34653044244510.jpg",
+      "price": "89.00",
+      "description": "1:10 Scale so super large motorbike and full suspension system for easy riding",
+      "new": false,
+      "clearance": false
     },
     {
-      "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "21",
+      "name": "Grafix Dinosaur Operation Game",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/hc0/hee/11843586195486.jpg",
+      "price": "8.85",
+      "description": "Keep your hands steady to avoid having a shocker in the Dinosaur Operation Game.Grab the most body parts and get the most points to win! A great game for 2-4 players. Please note: 2 x AA batteries are required (not included).",
+      "new": false,
+      "clearance": true,
+      "discount": "4.15"
     },
     {
-      "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "22",
+      "name": "One Trick Pony",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h85/h88/35120009084958.jpg",
+      "price": "18.00",
+      "description": "Howdy partner! This cowboy is keepin' a watchful eye over his farm and isn't afraid to hogtie any varmint who tries to mess with his herd. His lasso is fast, so step lively! Take turns trying to sneak his animals across the fence - but don't get caught!",
+      "new": false,
+      "clearance": true,
+      "discount": "7.00"
     },
     {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "23",
+      "name": "Gabby's Dollhouse Monopoly Jr",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h0f/h93/45509950570526.jpg",
+      "price": "17.00",
+      "description": "Visit Gabby's Dollhouse in this a-meow-zing edition of MONOPOLY Junior! Jump around the game board visiting the Gabby Cats and exploring their rooms, from Cakey's Kitchen to DJ's Music Room. Land on CatRat, Kitty Fairy and Pandy Paws! ",
+      "new": false,
+      "clearance": true,
+      "discount": "12.00"
     },
     {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "24",
+      "name": "Paw Patrol Trend 30cm Plush - Skye",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/hd3/h84/45034866409502.jpg",
+      "price": "19.00",
+      "description": "",
+      "new": false,
+      "clearance": true,
+      "discount": "3.00"
     },
     {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "25",
+      "name": "Nerf Minecraft Heartstealer Dart Blaster",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h86/h36/34532588650526.jpg",
+      "price": "25.00",
+      "description": "These huggable 8 and 12 PAW Patrol plush feature everyone's favorite rescue dogs in their classic uniforms with adorable minimalist designs and accurate details from the cartoon.",
+      "new": false,
+      "clearance": true,
+      "discount": "20.00"
     },
     {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "26",
+      "name": "Sonic Prime Action Figures 6 Pack Deluxe Box - Assorted*",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h79/h4e/48190958927902.jpg",
+      "price": "39.00",
+      "description": "Collect all 8 officially licensed Sonic Prime figures, based off your favourite characters from the record breaking Netflix show. Each Deluxe Box contains 6 x 7.5cm figures, each sitting on a black play or display base. Collect Sonic, Tails, Amy Rose, Doctor Eggman, and more!",
+      "new": true,
+      "clearance": false
     },
     {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "27",
+      "name": "Littlest Pet Shop Farm Besties Collector 5 Pack",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h00/hfb/48556160090142.jpg",
+      "price": "35.00",
+      "description": "Calling all new and original Littlest Pet Shop fans! LPS Generation 7 has arrived. Collect a new generation of bobblin' head pets with over 65 exciting new friends in series 1. Panda, cat, axolotl, anteater and so many more are eager to become your new besties!",
+      "new": true,
+      "clearance": false
     },
     {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "28",
+      "name": "Pokemon TCG: Scarlet & Violet - Temporal Forces Blister Pack - Assorted*",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h05/h50/48159836143646.jpg",
+      "price": "7.00",
+      "description": "The ranks of Ancient and Future Pokémon continue to grow! Walking Wake ex breaks free of the past alongside Raging Bolt ex, while Iron Leaves ex delivers high-tech justice with Iron Crown ex",
+      "new": true,
+      "clearance": false
     },
     {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "29",
+      "name": "Hard Quiz Fast Game",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h8a/h90/48343706173470.jpg",
+      "price": "19.00",
+      "description": "Play Hard Quiz - Hard and Fast! Just like the popular TV Quiz Show you can play an Expert Round, Tom's Round and People's Round. Are you buzzing for bees? Or passionate for punk rock? Find out could win Hard Quiz, at home. Age 13+",
+      "new": true,
+      "clearance": false
     },
     {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "30",
+      "name": "Monkey Around",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/hf2/hcd/48292966957086.jpg",
+      "price": "29.00",
+      "description": "The Wiggle & Giggle Game prompting players to do simple movements such as balancing, hopping and marching together. Parent guide included. Kids learn hand-eye coordination, imitation, and gross motor-skills while building their vocabulary!",
+      "new": true,
+      "clearance": false
     }
-  ]
+  ],
+  "userinfo": [
+    {
+      "id": "6193",
+      "email": "hello@world",
+      "password": "1234",
+      "firstname": "John",
+      "lastname": "Mitchell",
+      "dob": "1992-10-20",
+      "address": "11 Hamlton street"
+    },
+    {
+      "id": "74ad",
+      "email": "Huge@Azza",
+      "password": "1234",
+      "firstname": "Huge",
+      "lastname": "Azza",
+      "dob": "1998-03-12",
+      "address": "10 Queens street"
+    }
+  ],
+  "subscribe": [
+
+  ],
+  "logininfo": [
+    
+  ],
 }
